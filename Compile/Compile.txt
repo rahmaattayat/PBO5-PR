@@ -1,0 +1,6 @@
+javac -d . Exercise3\*.java
+java -cp . Exercise3.EmployeeTest
+java -cp . Exercise3.ManagerTest
+
+javac -d . Soal5Interface\*.java
+java -cp . Soal5Interface.MainTest
